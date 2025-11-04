@@ -79,3 +79,4 @@ urlpatterns = [
     path('api/recent-sales/', RecentSalesAPIView.as_view(), name='recent-sales'),
     path('api/lojas/', LojasListAPIView.as_view(), name='lojas-list'),
 ]
+

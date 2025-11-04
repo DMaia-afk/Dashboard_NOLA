@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 """
 
 from pathlib import Path
+import os
 
 # Construa caminhos dentro do projeto assim: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -23,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-2^up&3(k=g88!10cu*&t@d-cqx&8=r&bnu37w#epj0qci7*vha'
 
 # AVISO DE SEGURANÇA: não execute com debug ligado em produção!
-DEBUG = False
+DEBUG = os.environ.get('DEBUG', 'True').lower() == 'true'
 
 ALLOWED_HOSTS = ['dashboard-nola.onrender.com', 'localhost', '127.0.0.1']
 
@@ -77,7 +78,6 @@ TEMPLATES = [
 WSGI_APPLICATION = 'dashboard_nola.wsgi.application'
 
 
-import os
 import dj_database_url
 
 # Database
@@ -135,7 +135,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
-    BASE_DIR / 'dashboard_Maria' / 'static',
+    BASE_DIR / 'dashboard_Maria' / 'static'/ 'dashboard_Maria',
 ]
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'

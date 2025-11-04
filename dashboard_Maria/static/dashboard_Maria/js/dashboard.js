@@ -1017,8 +1017,11 @@ window.changePerformancePorLojaPage = function(page) {
 
 // Remove stray code and properly define fetchAndRenderCards function
 function fetchAndRenderCards() {
+    if (window.isRenderingCards) return;
+    window.isRenderingCards = true;
+
     const grid = document.getElementById('dashboard-grid');
-    if (!grid) return;
+    if (!grid) { window.isRenderingCards = false; return; }
     grid.innerHTML = '';
     // determine order: prefer saved order in localStorage
     let order = [];
@@ -1072,6 +1075,7 @@ function fetchAndRenderCards() {
         }
         // initialize sortable and restore order/controls
         try { initSortable(); } catch (e) { console.warn('initSortable failed after render', e); }
+        window.isRenderingCards = false;
     }, 150);
 }
 

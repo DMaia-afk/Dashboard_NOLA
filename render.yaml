@@ -9,5 +9,7 @@ services:
         sync: false  # será configurado manualmente no Render
       - key: DJANGO_SETTINGS_MODULE
         value: dashboard_nola.settings
+      - key: DEBUG
+        value: False
       - key: PYTHON_VERSION
         value: 3.13.0
