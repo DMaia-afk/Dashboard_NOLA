@@ -2,7 +2,7 @@ services:
   - type: web
     name: dashboard-nola
     runtime: python3
-    preDeployCommand: python manage.py migrate && python manage.py loaddata dashboard_backup.json && python manage.py collectstatic --noinput
+    preDeployCommand: python manage.py makemigrations && python manage.py migrate && python manage.py loaddata dashboard_backup.json && python manage.py collectstatic --noinput
     buildCommand: DJANGO_SETTINGS_MODULE=dashboard_nola.settings pip install -r requirements.txt && python manage.py collectstatic --noinput
     startCommand: gunicorn dashboard_nola.wsgi:application --bind 0.0.0.0:$PORT
     envVars:

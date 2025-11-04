@@ -28,7 +28,7 @@ class AuthGroupPermissions(models.Model):
     permission = models.ForeignKey('AuthPermission', models.DO_NOTHING)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'auth_group_permissions'
         unique_together = (('group', 'permission'),)
 
@@ -39,7 +39,7 @@ class AuthPermission(models.Model):
     codename = models.CharField(max_length=100)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'auth_permission'
         unique_together = (('content_type', 'codename'),)
 
@@ -57,7 +57,7 @@ class AuthUser(models.Model):
     date_joined = models.DateTimeField()
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'auth_user'
 
 
@@ -67,7 +67,7 @@ class AuthUserGroups(models.Model):
     group = models.ForeignKey(AuthGroup, models.DO_NOTHING)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'auth_user_groups'
         unique_together = (('user', 'group'),)
 
@@ -78,7 +78,7 @@ class AuthUserUserPermissions(models.Model):
     permission = models.ForeignKey(AuthPermission, models.DO_NOTHING)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'auth_user_user_permissions'
         unique_together = (('user', 'permission'),)
 
@@ -88,7 +88,7 @@ class Brands(models.Model):
     created_at = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'brands'
 
 
@@ -101,7 +101,7 @@ class Categories(models.Model):
     deleted_at = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'categories'
 
 
@@ -113,7 +113,7 @@ class Channels(models.Model):
     created_at = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'channels'
 
 
@@ -125,7 +125,7 @@ class CouponSales(models.Model):
     sponsorship = models.CharField(max_length=100, blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'coupon_sales'
 
 
@@ -139,7 +139,7 @@ class Coupons(models.Model):
     valid_until = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'coupons'
 
 
@@ -159,7 +159,7 @@ class Customers(models.Model):
     created_at = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'customers'
 
 
@@ -180,7 +180,7 @@ class DeliveryAddresses(models.Model):
     longitude = models.FloatField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'delivery_addresses'
 
 
@@ -199,7 +199,7 @@ class DeliverySales(models.Model):
     mode = models.CharField(max_length=100, blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'delivery_sales'
 
 
@@ -213,7 +213,7 @@ class DjangoAdminLog(models.Model):
     user = models.ForeignKey(AuthUser, models.DO_NOTHING)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'django_admin_log'
 
 
@@ -222,7 +222,7 @@ class DjangoContentType(models.Model):
     model = models.CharField(max_length=100)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'django_content_type'
         unique_together = (('app_label', 'model'),)
 
@@ -234,7 +234,7 @@ class DjangoMigrations(models.Model):
     applied = models.DateTimeField()
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'django_migrations'
 
 
@@ -244,7 +244,7 @@ class DjangoSession(models.Model):
     expire_date = models.DateTimeField()
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'django_session'
 
 
@@ -258,7 +258,7 @@ class ItemItemProductSales(models.Model):
     amount = models.FloatField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'item_item_product_sales'
 
 
@@ -273,7 +273,7 @@ class ItemProductSales(models.Model):
     observations = models.CharField(max_length=300, blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'item_product_sales'
 
 
@@ -286,7 +286,7 @@ class Items(models.Model):
     deleted_at = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'items'
 
 
@@ -299,7 +299,7 @@ class OptionGroups(models.Model):
     deleted_at = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'option_groups'
 
 
@@ -308,7 +308,7 @@ class PaymentTypes(models.Model):
     description = models.CharField(max_length=100)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'payment_types'
 
 
@@ -321,7 +321,7 @@ class Payments(models.Model):
     currency = models.CharField(max_length=10, blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'payments'
 
 
@@ -334,7 +334,7 @@ class ProductSales(models.Model):
     observations = models.CharField(max_length=300, blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'product_sales'
 
 
@@ -347,7 +347,7 @@ class Products(models.Model):
     deleted_at = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'products'
 
 
@@ -376,7 +376,7 @@ class Sales(models.Model):
     origin = models.CharField(max_length=100, blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'sales'
 
 
@@ -399,7 +399,7 @@ class Stores(models.Model):
     created_at = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'stores'
 
 
@@ -409,7 +409,7 @@ class SubBrands(models.Model):
     created_at = models.DateTimeField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'sub_brands'
 
 
