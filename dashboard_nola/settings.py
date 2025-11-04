@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2^up&3(k=g88!10cu*&t@d-cqx&8=r&bnu37w#epj0qci7*vha
 # AVISO DE SEGURANÇA: não execute com debug ligado em produção!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dashboard-nola.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
