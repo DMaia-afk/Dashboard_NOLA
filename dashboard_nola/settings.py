@@ -48,6 +48,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     # Middleware customizado para capturar erros de recursos do banco e retornar 503 JSON
     'dashboard_Maria.middleware.DBResourceErrorMiddleware',
