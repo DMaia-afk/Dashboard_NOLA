@@ -1,0 +1,184 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Analítico | Restaurantes</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{% static 'dashboard_Maria/css/home.css' %}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
+            justify-items: stretch;
+            align-items: stretch;
+            width: 100%;
+            box-sizing: border-box;
+            overflow-x: hidden;
+        }
+        /* Insights grid: prefer 2 columns so insight cards lay out 2 per row */
+        #insights-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .widget-card {
+            min-width: 0;
+            max-width: 100%;
+            box-sizing: border-box;
+        }
+        @media (max-width: 1200px) {
+            .dashboard-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            #insights-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 800px) {
+            .dashboard-grid {
+                grid-template-columns: 1fr;
+            }
+            #insights-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <aside id="sidebar" class="sidebar-container">
+        <div class="sidebar-header">
+            <img src="{% static 'dashboard_Maria/img/logo_Nola.png' %}" class="sidebar-logo" style="width: 2.5rem; height: 2.5rem; margin-right: 0.5rem;">
+                <a href="https://usenola.com.br/" target="_blank" style="display:flex;align-items:center;text-decoration:none;color:inherit;">
+                    <span class="sidebar-text" style="font-size:1.25rem; font-weight:700;">NOLA</span>
+                </a>
+        </div>
+        <nav class="nav-link-area">
+            <a href="/" class="nav-item active">
+                <span class="sidebar-icon"><i class="fas fa-tachometer-alt"></i></span>
+                <span class="sidebar-text">Dashboard</span>
+            </a>
+            <a href="/map/" class="nav-item">
+                <span class="sidebar-icon"><i class="fas fa-map-marked-alt"></i></span>
+                <span class="sidebar-text">Mapa de Vendas</span>
+            </a>
+            <a href="/calendar/" class="nav-item">
+                <span class="sidebar-icon"><i class="fas fa-calendar-alt"></i></span>
+                <span class="sidebar-text">Calendário</span>
+            </a>
+        </nav>
+        <div class="footer-nav">
+            <a href="https://github.com/DMaia-afk" target="_blank" class="nav-item">
+                <span class="sidebar-icon"><i class="fab fa-github"></i></span>
+                <span class="sidebar-text">Créditos</span>
+            </a>
+        </div>
+    </aside>
+    <main class="main-content">
+        <header class="dashboard-header">
+            <div>
+                <h1>Dashboard Analítico</h1>
+                <p>Cards interativos com filtros de loja, canal e período.</p>
+            </div>
+            <form id="global-filters" class="global-filters" onsubmit="applyGlobalFilters(event)">
+                <label for="filtro-loja">Loja:</label>
+                <input list="lojas-list" id="filtro-loja" name="loja" placeholder="Digite ou selecione a loja">
+                <datalist id="lojas-list">
+                    <option value="Aragão - Pinto">
+                    <option value="Barros e Filhos - Cavalcanti do Campo">
+                    <option value="Caldeira - Nogueira da Serra">
+                    <option value="Campos - Nogueira da Serra">
+                    <option value="Cardoso - Pinto">
+                    <option value="Castro Correia S/A - Oliveira">
+                    <option value="Castro - Costa">
+                    <option value="Correia - ME - Nunes">
+                    <option value="Costela S/A - Pinto">
+                    <option value="da Costa - Pinto">
+                    <option value="da Cruz - Almeida Alegre">
+                    <option value="da Luz - Pinto">
+                    <option value="da Luz S.A. - Costa">
+                    <option value="da Mata - Cardoso do Galho">
+                    <option value="da Mota - Costa">
+                    <option value="da Mota - da Mata">
+                    <option value="da Mota S/A - Azevedo">
+                    <option value="da Rocha e Filhos - da Mata">
+                    <option value="da Rocha Melo Ltda. - Costa">
+                    <option value="da Rosa Gomes S/A - Moura do Amparo">
+                    <option value="das Neves S/A - das Neves">
+                    <option value="Duarte Fogaça - EI - da Rosa de Castro">
+                    <option value="Freitas - Cavalcanti do Campo">
+                    <option value="Lima Carvalho S/A - Nogueira da Serra">
+                    <option value="Lima S.A. - Cardoso do Galho">
+                    <option value="Melo - Cardoso do Galho">
+                    <option value="Melo - da Mata">
+                    <option value="Melo - ME - Farias">
+                    <option value="Melo S.A. - Teixeira">
+                    <option value="Monteiro - ME - Pinto">
+                    <option value="Monteiro - Nogueira da Serra">
+                    <option value="Moreira - Moura do Amparo">
+                    <option value="Nascimento - Almeida Alegre">
+                    <option value="Oliveira Alves S.A. - Costa">
+                    <option value="Peixoto Novaes S.A. - Farias">
+                    <option value="Pinto - Almeida Alegre">
+                    <option value="Pinto - ME - da Mata">
+                    <option value="Pinto - Moura do Amparo">
+                    <option value="Pires - Nunes do Galho">
+                    <option value="Ramos das Neves - EI - Oliveira">
+                    <option value="Ramos - Oliveira">
+                    <option value="Rezende - da Rosa de Castro">
+                    <option value="Rezende - Porto dos Dourados">
+                    <option value="Ribeiro Ltda. - Farias">
+                    <option value="Rodrigues - EI - Costa">
+                    <option value="Sales da Luz e Filhos - da Rosa de Castro">
+                    <option value="Teixeira - ME - Teixeira">
+                    <option value="Viana da Mata - ME - Moura do Amparo">
+                    <option value="Viana - Pinto">
+                </datalist>
+                <label for="filtro-canal">Canal:</label>
+                <select id="filtro-canal" name="canal">
+                    <option value="">Todos</option>
+                    <option value="Presencial">Presencial</option>
+                    <option value="iFood">iFood</option>
+                    <option value="Rappi">Rappi</option>
+                </select>
+                <label for="filtro-data-inicio">De:</label>
+                <input type="date" id="filtro-data-inicio" name="data_inicio">
+                <label for="filtro-data-fim">Até:</label>
+                <input type="date" id="filtro-data-fim" name="data_fim">
+                    <!-- Campos de mês inicial/final removidos do filtro global -->
+                
+            <section id="card-retencao-clientes-filtros" style="margin-bottom:16px;">
+                <!-- O filtro será inserido diretamente no card de retenção via JS -->
+            </section>
+                <button type="submit" class="btn-primary"><i class="fas fa-filter"></i> Aplicar Filtros</button>
+            </form>
+            <button onclick="showAddWidgetModal()" class="btn-primary">
+                <i class="fas fa-plus mr-2"></i> Adicionar Card
+            </button>
+        </header>
+    <!-- a grade do dashboard será renderizada dentro da seção Dashboard abaixo -->
+        <!-- Grade principal do Dashboard (KPIs primários, gráficos, tabelas) -->
+        <section id="dashboard-section" style="margin-top:1rem;">
+            <h2 style="font-size:1.5rem; font-weight:700; margin-bottom:1rem;">Dashboard</h2>
+            <div id="dashboard-grid" class="dashboard-grid">
+                <!-- Os cards do dashboard principal serão renderizados dinamicamente pelo JS, respeitando os filtros globais. -->
+            </div>
+        </section>
+
+        <!-- Seção Insights: grade separada que hospeda cards de insights / anomalias -->
+        <section id="insights-section" style="margin-top: 2.5rem;">
+            <h2 style="font-size:1.25rem; font-weight:700; margin-bottom:0.75rem;color:#1976d2;">Insights & Anomalias</h2>
+            <div id="insights-grid" class="dashboard-grid">
+                <!-- Os cards de insights serão renderizados dinamicamente pelo JS insights.js -->
+            </div>
+        </section>
+    </main>
+    <div id="add-widget-modal" class="hidden modal-overlay">
+        <!-- ...existing code... -->
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.2/Sortable.min.js"></script>
+    <script src="{% static 'dashboard_Maria/js/insights.js' %}"></script>
+    <script src="{% static 'dashboard_Maria/js/dashboard.js' %}"></script>
+</body>
+</html>

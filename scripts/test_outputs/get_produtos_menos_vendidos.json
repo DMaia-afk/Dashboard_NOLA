@@ -1,0 +1,54 @@
+{
+  "bottom_produtos": [
+    {
+      "produto": "Pudim G #042",
+      "quantidade": 64,
+      "receita": 3226.88
+    },
+    {
+      "produto": "Combo Duplo G #045",
+      "quantidade": 537,
+      "receita": 14047.919999999995
+    },
+    {
+      "produto": "Combo Kids P #073",
+      "quantidade": 730,
+      "receita": 16184.100000000031
+    },
+    {
+      "produto": "Suco G #081",
+      "quantidade": 452,
+      "receita": 16199.680000000015
+    },
+    {
+      "produto": "Combo Executivo P #064",
+      "quantidade": 655,
+      "receita": 19479.699999999968
+    },
+    {
+      "produto": "Combo Individual P #028",
+      "quantidade": 671,
+      "receita": 20579.570000000032
+    },
+    {
+      "produto": "Petit Gateau M #005",
+      "quantidade": 601,
+      "receita": 22831.989999999976
+    },
+    {
+      "produto": "Cheeseburger M #077",
+      "quantidade": 318,
+      "receita": 26533.91999999999
+    },
+    {
+      "produto": "Double Burger G #021",
+      "quantidade": 230,
+      "receita": 26939.90000000001
+    },
+    {
+      "produto": "Frango Grelhado M #068",
+      "quantidade": 609,
+      "receita": 31929.870000000035
+    }
+  ]
+}

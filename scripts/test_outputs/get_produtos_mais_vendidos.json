@@ -1,0 +1,54 @@
+{
+  "top_produtos": [
+    {
+      "produto": "Pizza Calabresa G #075",
+      "quantidade": 10960,
+      "receita": 1314432.7999999593
+    },
+    {
+      "produto": "Frango Grelhado G #060",
+      "quantidade": 13037,
+      "receita": 1303048.1500000176
+    },
+    {
+      "produto": "Frango Grelhado M #020",
+      "quantidade": 12023,
+      "receita": 1215284.839999979
+    },
+    {
+      "produto": "Veggie Burger G #012",
+      "quantidade": 11968,
+      "receita": 1199552.6400000087
+    },
+    {
+      "produto": "Torta G #045",
+      "quantidade": 10819,
+      "receita": 1196365.0199999819
+    },
+    {
+      "produto": "Pizza Calabresa M #041",
+      "quantidade": 10080,
+      "receita": 1111723.1999999876
+    },
+    {
+      "produto": "Combo Duplo G #051",
+      "quantidade": 11942,
+      "receita": 1104037.900000013
+    },
+    {
+      "produto": "Pizza 4 Queijos G #063",
+      "quantidade": 9994,
+      "receita": 1078252.6600000258
+    },
+    {
+      "produto": "Combo Kids G #024",
+      "quantidade": 9248,
+      "receita": 1074710.0800000115
+    },
+    {
+      "produto": "Suco G #078",
+      "quantidade": 8804,
+      "receita": 1033501.5600000229
+    }
+  ]
+}

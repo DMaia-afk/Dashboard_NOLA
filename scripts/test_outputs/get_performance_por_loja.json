@@ -1,0 +1,136 @@
+{
+  "monthly": [
+    {
+      "mes": "2025-05",
+      "faturamento": 28997578.66,
+      "vendas": 83460,
+      "avg_ticket": 347.44
+    },
+    {
+      "mes": "2025-06",
+      "faturamento": 27720893.56,
+      "vendas": 79963,
+      "avg_ticket": 346.67
+    },
+    {
+      "mes": "2025-07",
+      "faturamento": 29893147.14,
+      "vendas": 85895,
+      "avg_ticket": 348.02
+    },
+    {
+      "mes": "2025-08",
+      "faturamento": 31986370.29,
+      "vendas": 92060,
+      "avg_ticket": 347.45
+    },
+    {
+      "mes": "2025-09",
+      "faturamento": 29018578.45,
+      "vendas": 84010,
+      "avg_ticket": 345.42
+    },
+    {
+      "mes": "2025-10",
+      "faturamento": 31076695.8,
+      "vendas": 89670,
+      "avg_ticket": 346.57
+    }
+  ],
+  "crescimento_loja": [
+    {
+      "mes": "2025-06",
+      "crescimento_revenue_pct": -4.4,
+      "crescimento_sales_pct": -4.19,
+      "crescimento_combined_pct": -4.34,
+      "current": {
+        "mes": "2025-06",
+        "faturamento": 27720893.56,
+        "vendas": 79963,
+        "avg_ticket": 346.67
+      },
+      "previous": {
+        "mes": "2025-05",
+        "faturamento": 28997578.66,
+        "vendas": 83460,
+        "avg_ticket": 347.44
+      }
+    },
+    {
+      "mes": "2025-07",
+      "crescimento_revenue_pct": 7.84,
+      "crescimento_sales_pct": 7.42,
+      "crescimento_combined_pct": 7.71,
+      "current": {
+        "mes": "2025-07",
+        "faturamento": 29893147.14,
+        "vendas": 85895,
+        "avg_ticket": 348.02
+      },
+      "previous": {
+        "mes": "2025-06",
+        "faturamento": 27720893.56,
+        "vendas": 79963,
+        "avg_ticket": 346.67
+      }
+    },
+    {
+      "mes": "2025-08",
+      "crescimento_revenue_pct": 7.0,
+      "crescimento_sales_pct": 7.18,
+      "crescimento_combined_pct": 7.05,
+      "current": {
+        "mes": "2025-08",
+        "faturamento": 31986370.29,
+        "vendas": 92060,
+        "avg_ticket": 347.45
+      },
+      "previous": {
+        "mes": "2025-07",
+        "faturamento": 29893147.14,
+        "vendas": 85895,
+        "avg_ticket": 348.02
+      }
+    },
+    {
+      "mes": "2025-09",
+      "crescimento_revenue_pct": -9.28,
+      "crescimento_sales_pct": -8.74,
+      "crescimento_combined_pct": -9.12,
+      "current": {
+        "mes": "2025-09",
+        "faturamento": 29018578.45,
+        "vendas": 84010,
+        "avg_ticket": 345.42
+      },
+      "previous": {
+        "mes": "2025-08",
+        "faturamento": 31986370.29,
+        "vendas": 92060,
+        "avg_ticket": 347.45
+      }
+    },
+    {
+      "mes": "2025-10",
+      "crescimento_revenue_pct": 7.09,
+      "crescimento_sales_pct": 6.74,
+      "crescimento_combined_pct": 6.99,
+      "current": {
+        "mes": "2025-10",
+        "faturamento": 31076695.8,
+        "vendas": 89670,
+        "avg_ticket": 346.57
+      },
+      "previous": {
+        "mes": "2025-09",
+        "faturamento": 29018578.45,
+        "vendas": 84010,
+        "avg_ticket": 345.42
+      }
+    }
+  ],
+  "weights": {
+    "revenue": 0.7,
+    "sales": 0.3
+  }
+}

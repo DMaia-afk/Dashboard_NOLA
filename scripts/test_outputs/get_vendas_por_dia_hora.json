@@ -1,0 +1,1184 @@
+{
+  "heatmap": [
+    {
+      "dia_semana": 0,
+      "hora": 0,
+      "vendas": 486
+    },
+    {
+      "dia_semana": 0,
+      "hora": 1,
+      "vendas": 469
+    },
+    {
+      "dia_semana": 0,
+      "hora": 2,
+      "vendas": 437
+    },
+    {
+      "dia_semana": 0,
+      "hora": 3,
+      "vendas": 459
+    },
+    {
+      "dia_semana": 0,
+      "hora": 4,
+      "vendas": 457
+    },
+    {
+      "dia_semana": 0,
+      "hora": 5,
+      "vendas": 459
+    },
+    {
+      "dia_semana": 0,
+      "hora": 6,
+      "vendas": 1876
+    },
+    {
+      "dia_semana": 0,
+      "hora": 7,
+      "vendas": 1847
+    },
+    {
+      "dia_semana": 0,
+      "hora": 8,
+      "vendas": 1848
+    },
+    {
+      "dia_semana": 0,
+      "hora": 9,
+      "vendas": 1911
+    },
+    {
+      "dia_semana": 0,
+      "hora": 10,
+      "vendas": 1884
+    },
+    {
+      "dia_semana": 0,
+      "hora": 11,
+      "vendas": 8239
+    },
+    {
+      "dia_semana": 0,
+      "hora": 12,
+      "vendas": 8140
+    },
+    {
+      "dia_semana": 0,
+      "hora": 13,
+      "vendas": 8108
+    },
+    {
+      "dia_semana": 0,
+      "hora": 14,
+      "vendas": 8210
+    },
+    {
+      "dia_semana": 0,
+      "hora": 15,
+      "vendas": 2267
+    },
+    {
+      "dia_semana": 0,
+      "hora": 16,
+      "vendas": 2348
+    },
+    {
+      "dia_semana": 0,
+      "hora": 17,
+      "vendas": 2345
+    },
+    {
+      "dia_semana": 0,
+      "hora": 18,
+      "vendas": 2327
+    },
+    {
+      "dia_semana": 0,
+      "hora": 19,
+      "vendas": 9427
+    },
+    {
+      "dia_semana": 0,
+      "hora": 20,
+      "vendas": 9327
+    },
+    {
+      "dia_semana": 0,
+      "hora": 21,
+      "vendas": 9417
+    },
+    {
+      "dia_semana": 0,
+      "hora": 22,
+      "vendas": 9169
+    },
+    {
+      "dia_semana": 0,
+      "hora": 23,
+      "vendas": 1162
+    },
+    {
+      "dia_semana": 1,
+      "hora": 0,
+      "vendas": 260
+    },
+    {
+      "dia_semana": 1,
+      "hora": 1,
+      "vendas": 274
+    },
+    {
+      "dia_semana": 1,
+      "hora": 2,
+      "vendas": 279
+    },
+    {
+      "dia_semana": 1,
+      "hora": 3,
+      "vendas": 279
+    },
+    {
+      "dia_semana": 1,
+      "hora": 4,
+      "vendas": 255
+    },
+    {
+      "dia_semana": 1,
+      "hora": 5,
+      "vendas": 290
+    },
+    {
+      "dia_semana": 1,
+      "hora": 6,
+      "vendas": 1106
+    },
+    {
+      "dia_semana": 1,
+      "hora": 7,
+      "vendas": 1016
+    },
+    {
+      "dia_semana": 1,
+      "hora": 8,
+      "vendas": 1038
+    },
+    {
+      "dia_semana": 1,
+      "hora": 9,
+      "vendas": 1099
+    },
+    {
+      "dia_semana": 1,
+      "hora": 10,
+      "vendas": 1028
+    },
+    {
+      "dia_semana": 1,
+      "hora": 11,
+      "vendas": 4558
+    },
+    {
+      "dia_semana": 1,
+      "hora": 12,
+      "vendas": 4609
+    },
+    {
+      "dia_semana": 1,
+      "hora": 13,
+      "vendas": 4649
+    },
+    {
+      "dia_semana": 1,
+      "hora": 14,
+      "vendas": 4601
+    },
+    {
+      "dia_semana": 1,
+      "hora": 15,
+      "vendas": 1324
+    },
+    {
+      "dia_semana": 1,
+      "hora": 16,
+      "vendas": 1273
+    },
+    {
+      "dia_semana": 1,
+      "hora": 17,
+      "vendas": 1253
+    },
+    {
+      "dia_semana": 1,
+      "hora": 18,
+      "vendas": 1257
+    },
+    {
+      "dia_semana": 1,
+      "hora": 19,
+      "vendas": 5400
+    },
+    {
+      "dia_semana": 1,
+      "hora": 20,
+      "vendas": 5428
+    },
+    {
+      "dia_semana": 1,
+      "hora": 21,
+      "vendas": 5248
+    },
+    {
+      "dia_semana": 1,
+      "hora": 22,
+      "vendas": 5228
+    },
+    {
+      "dia_semana": 1,
+      "hora": 23,
+      "vendas": 676
+    },
+    {
+      "dia_semana": 2,
+      "hora": 0,
+      "vendas": 309
+    },
+    {
+      "dia_semana": 2,
+      "hora": 1,
+      "vendas": 336
+    },
+    {
+      "dia_semana": 2,
+      "hora": 2,
+      "vendas": 301
+    },
+    {
+      "dia_semana": 2,
+      "hora": 3,
+      "vendas": 345
+    },
+    {
+      "dia_semana": 2,
+      "hora": 4,
+      "vendas": 325
+    },
+    {
+      "dia_semana": 2,
+      "hora": 5,
+      "vendas": 331
+    },
+    {
+      "dia_semana": 2,
+      "hora": 6,
+      "vendas": 1331
+    },
+    {
+      "dia_semana": 2,
+      "hora": 7,
+      "vendas": 1302
+    },
+    {
+      "dia_semana": 2,
+      "hora": 8,
+      "vendas": 1322
+    },
+    {
+      "dia_semana": 2,
+      "hora": 9,
+      "vendas": 1253
+    },
+    {
+      "dia_semana": 2,
+      "hora": 10,
+      "vendas": 1280
+    },
+    {
+      "dia_semana": 2,
+      "hora": 11,
+      "vendas": 5665
+    },
+    {
+      "dia_semana": 2,
+      "hora": 12,
+      "vendas": 5639
+    },
+    {
+      "dia_semana": 2,
+      "hora": 13,
+      "vendas": 5645
+    },
+    {
+      "dia_semana": 2,
+      "hora": 14,
+      "vendas": 5593
+    },
+    {
+      "dia_semana": 2,
+      "hora": 15,
+      "vendas": 1641
+    },
+    {
+      "dia_semana": 2,
+      "hora": 16,
+      "vendas": 1642
+    },
+    {
+      "dia_semana": 2,
+      "hora": 17,
+      "vendas": 1544
+    },
+    {
+      "dia_semana": 2,
+      "hora": 18,
+      "vendas": 1618
+    },
+    {
+      "dia_semana": 2,
+      "hora": 19,
+      "vendas": 6418
+    },
+    {
+      "dia_semana": 2,
+      "hora": 20,
+      "vendas": 6429
+    },
+    {
+      "dia_semana": 2,
+      "hora": 21,
+      "vendas": 6520
+    },
+    {
+      "dia_semana": 2,
+      "hora": 22,
+      "vendas": 6452
+    },
+    {
+      "dia_semana": 2,
+      "hora": 23,
+      "vendas": 815
+    },
+    {
+      "dia_semana": 3,
+      "hora": 0,
+      "vendas": 318
+    },
+    {
+      "dia_semana": 3,
+      "hora": 1,
+      "vendas": 320
+    },
+    {
+      "dia_semana": 3,
+      "hora": 2,
+      "vendas": 304
+    },
+    {
+      "dia_semana": 3,
+      "hora": 3,
+      "vendas": 360
+    },
+    {
+      "dia_semana": 3,
+      "hora": 4,
+      "vendas": 311
+    },
+    {
+      "dia_semana": 3,
+      "hora": 5,
+      "vendas": 311
+    },
+    {
+      "dia_semana": 3,
+      "hora": 6,
+      "vendas": 1278
+    },
+    {
+      "dia_semana": 3,
+      "hora": 7,
+      "vendas": 1276
+    },
+    {
+      "dia_semana": 3,
+      "hora": 8,
+      "vendas": 1217
+    },
+    {
+      "dia_semana": 3,
+      "hora": 9,
+      "vendas": 1208
+    },
+    {
+      "dia_semana": 3,
+      "hora": 10,
+      "vendas": 1297
+    },
+    {
+      "dia_semana": 3,
+      "hora": 11,
+      "vendas": 5391
+    },
+    {
+      "dia_semana": 3,
+      "hora": 12,
+      "vendas": 5513
+    },
+    {
+      "dia_semana": 3,
+      "hora": 13,
+      "vendas": 5448
+    },
+    {
+      "dia_semana": 3,
+      "hora": 14,
+      "vendas": 5590
+    },
+    {
+      "dia_semana": 3,
+      "hora": 15,
+      "vendas": 1585
+    },
+    {
+      "dia_semana": 3,
+      "hora": 16,
+      "vendas": 1596
+    },
+    {
+      "dia_semana": 3,
+      "hora": 17,
+      "vendas": 1526
+    },
+    {
+      "dia_semana": 3,
+      "hora": 18,
+      "vendas": 1667
+    },
+    {
+      "dia_semana": 3,
+      "hora": 19,
+      "vendas": 6232
+    },
+    {
+      "dia_semana": 3,
+      "hora": 20,
+      "vendas": 6306
+    },
+    {
+      "dia_semana": 3,
+      "hora": 21,
+      "vendas": 6153
+    },
+    {
+      "dia_semana": 3,
+      "hora": 22,
+      "vendas": 6330
+    },
+    {
+      "dia_semana": 3,
+      "hora": 23,
+      "vendas": 759
+    },
+    {
+      "dia_semana": 4,
+      "hora": 0,
+      "vendas": 330
+    },
+    {
+      "dia_semana": 4,
+      "hora": 1,
+      "vendas": 308
+    },
+    {
+      "dia_semana": 4,
+      "hora": 2,
+      "vendas": 332
+    },
+    {
+      "dia_semana": 4,
+      "hora": 3,
+      "vendas": 348
+    },
+    {
+      "dia_semana": 4,
+      "hora": 4,
+      "vendas": 346
+    },
+    {
+      "dia_semana": 4,
+      "hora": 5,
+      "vendas": 323
+    },
+    {
+      "dia_semana": 4,
+      "hora": 6,
+      "vendas": 1307
+    },
+    {
+      "dia_semana": 4,
+      "hora": 7,
+      "vendas": 1301
+    },
+    {
+      "dia_semana": 4,
+      "hora": 8,
+      "vendas": 1343
+    },
+    {
+      "dia_semana": 4,
+      "hora": 9,
+      "vendas": 1269
+    },
+    {
+      "dia_semana": 4,
+      "hora": 10,
+      "vendas": 1297
+    },
+    {
+      "dia_semana": 4,
+      "hora": 11,
+      "vendas": 5703
+    },
+    {
+      "dia_semana": 4,
+      "hora": 12,
+      "vendas": 5608
+    },
+    {
+      "dia_semana": 4,
+      "hora": 13,
+      "vendas": 5786
+    },
+    {
+      "dia_semana": 4,
+      "hora": 14,
+      "vendas": 5737
+    },
+    {
+      "dia_semana": 4,
+      "hora": 15,
+      "vendas": 1753
+    },
+    {
+      "dia_semana": 4,
+      "hora": 16,
+      "vendas": 1645
+    },
+    {
+      "dia_semana": 4,
+      "hora": 17,
+      "vendas": 1660
+    },
+    {
+      "dia_semana": 4,
+      "hora": 18,
+      "vendas": 1620
+    },
+    {
+      "dia_semana": 4,
+      "hora": 19,
+      "vendas": 6680
+    },
+    {
+      "dia_semana": 4,
+      "hora": 20,
+      "vendas": 6674
+    },
+    {
+      "dia_semana": 4,
+      "hora": 21,
+      "vendas": 6575
+    },
+    {
+      "dia_semana": 4,
+      "hora": 22,
+      "vendas": 6637
+    },
+    {
+      "dia_semana": 4,
+      "hora": 23,
+      "vendas": 726
+    },
+    {
+      "dia_semana": 5,
+      "hora": 0,
+      "vendas": 424
+    },
+    {
+      "dia_semana": 5,
+      "hora": 1,
+      "vendas": 462
+    },
+    {
+      "dia_semana": 5,
+      "hora": 2,
+      "vendas": 454
+    },
+    {
+      "dia_semana": 5,
+      "hora": 3,
+      "vendas": 457
+    },
+    {
+      "dia_semana": 5,
+      "hora": 4,
+      "vendas": 448
+    },
+    {
+      "dia_semana": 5,
+      "hora": 5,
+      "vendas": 466
+    },
+    {
+      "dia_semana": 5,
+      "hora": 6,
+      "vendas": 1733
+    },
+    {
+      "dia_semana": 5,
+      "hora": 7,
+      "vendas": 1793
+    },
+    {
+      "dia_semana": 5,
+      "hora": 8,
+      "vendas": 1793
+    },
+    {
+      "dia_semana": 5,
+      "hora": 9,
+      "vendas": 1819
+    },
+    {
+      "dia_semana": 5,
+      "hora": 10,
+      "vendas": 1729
+    },
+    {
+      "dia_semana": 5,
+      "hora": 11,
+      "vendas": 7628
+    },
+    {
+      "dia_semana": 5,
+      "hora": 12,
+      "vendas": 7601
+    },
+    {
+      "dia_semana": 5,
+      "hora": 13,
+      "vendas": 7654
+    },
+    {
+      "dia_semana": 5,
+      "hora": 14,
+      "vendas": 7507
+    },
+    {
+      "dia_semana": 5,
+      "hora": 15,
+      "vendas": 2219
+    },
+    {
+      "dia_semana": 5,
+      "hora": 16,
+      "vendas": 2215
+    },
+    {
+      "dia_semana": 5,
+      "hora": 17,
+      "vendas": 2141
+    },
+    {
+      "dia_semana": 5,
+      "hora": 18,
+      "vendas": 2098
+    },
+    {
+      "dia_semana": 5,
+      "hora": 19,
+      "vendas": 8755
+    },
+    {
+      "dia_semana": 5,
+      "hora": 20,
+      "vendas": 8670
+    },
+    {
+      "dia_semana": 5,
+      "hora": 21,
+      "vendas": 8777
+    },
+    {
+      "dia_semana": 5,
+      "hora": 22,
+      "vendas": 8605
+    },
+    {
+      "dia_semana": 5,
+      "hora": 23,
+      "vendas": 1149
+    },
+    {
+      "dia_semana": 6,
+      "hora": 0,
+      "vendas": 465
+    },
+    {
+      "dia_semana": 6,
+      "hora": 1,
+      "vendas": 435
+    },
+    {
+      "dia_semana": 6,
+      "hora": 2,
+      "vendas": 487
+    },
+    {
+      "dia_semana": 6,
+      "hora": 3,
+      "vendas": 471
+    },
+    {
+      "dia_semana": 6,
+      "hora": 4,
+      "vendas": 481
+    },
+    {
+      "dia_semana": 6,
+      "hora": 5,
+      "vendas": 454
+    },
+    {
+      "dia_semana": 6,
+      "hora": 6,
+      "vendas": 1800
+    },
+    {
+      "dia_semana": 6,
+      "hora": 7,
+      "vendas": 1863
+    },
+    {
+      "dia_semana": 6,
+      "hora": 8,
+      "vendas": 1830
+    },
+    {
+      "dia_semana": 6,
+      "hora": 9,
+      "vendas": 1841
+    },
+    {
+      "dia_semana": 6,
+      "hora": 10,
+      "vendas": 1866
+    },
+    {
+      "dia_semana": 6,
+      "hora": 11,
+      "vendas": 8235
+    },
+    {
+      "dia_semana": 6,
+      "hora": 12,
+      "vendas": 8239
+    },
+    {
+      "dia_semana": 6,
+      "hora": 13,
+      "vendas": 8122
+    },
+    {
+      "dia_semana": 6,
+      "hora": 14,
+      "vendas": 8118
+    },
+    {
+      "dia_semana": 6,
+      "hora": 15,
+      "vendas": 2230
+    },
+    {
+      "dia_semana": 6,
+      "hora": 16,
+      "vendas": 2282
+    },
+    {
+      "dia_semana": 6,
+      "hora": 17,
+      "vendas": 2336
+    },
+    {
+      "dia_semana": 6,
+      "hora": 18,
+      "vendas": 2282
+    },
+    {
+      "dia_semana": 6,
+      "hora": 19,
+      "vendas": 9232
+    },
+    {
+      "dia_semana": 6,
+      "hora": 20,
+      "vendas": 9290
+    },
+    {
+      "dia_semana": 6,
+      "hora": 21,
+      "vendas": 9159
+    },
+    {
+      "dia_semana": 6,
+      "hora": 22,
+      "vendas": 9099
+    },
+    {
+      "dia_semana": 6,
+      "hora": 23,
+      "vendas": 1137
+    }
+  ],
+  "labels": [
+    "Dom 0h",
+    "Dom 1h",
+    "Dom 2h",
+    "Dom 3h",
+    "Dom 4h",
+    "Dom 5h",
+    "Dom 6h",
+    "Dom 7h",
+    "Dom 8h",
+    "Dom 9h",
+    "Dom 10h",
+    "Dom 11h",
+    "Dom 12h",
+    "Dom 13h",
+    "Dom 14h",
+    "Dom 15h",
+    "Dom 16h",
+    "Dom 17h",
+    "Dom 18h",
+    "Dom 19h",
+    "Dom 20h",
+    "Dom 21h",
+    "Dom 22h",
+    "Dom 23h",
+    "Seg 0h",
+    "Seg 1h",
+    "Seg 2h",
+    "Seg 3h",
+    "Seg 4h",
+    "Seg 5h",
+    "Seg 6h",
+    "Seg 7h",
+    "Seg 8h",
+    "Seg 9h",
+    "Seg 10h",
+    "Seg 11h",
+    "Seg 12h",
+    "Seg 13h",
+    "Seg 14h",
+    "Seg 15h",
+    "Seg 16h",
+    "Seg 17h",
+    "Seg 18h",
+    "Seg 19h",
+    "Seg 20h",
+    "Seg 21h",
+    "Seg 22h",
+    "Seg 23h",
+    "Ter 0h",
+    "Ter 1h",
+    "Ter 2h",
+    "Ter 3h",
+    "Ter 4h",
+    "Ter 5h",
+    "Ter 6h",
+    "Ter 7h",
+    "Ter 8h",
+    "Ter 9h",
+    "Ter 10h",
+    "Ter 11h",
+    "Ter 12h",
+    "Ter 13h",
+    "Ter 14h",
+    "Ter 15h",
+    "Ter 16h",
+    "Ter 17h",
+    "Ter 18h",
+    "Ter 19h",
+    "Ter 20h",
+    "Ter 21h",
+    "Ter 22h",
+    "Ter 23h",
+    "Qua 0h",
+    "Qua 1h",
+    "Qua 2h",
+    "Qua 3h",
+    "Qua 4h",
+    "Qua 5h",
+    "Qua 6h",
+    "Qua 7h",
+    "Qua 8h",
+    "Qua 9h",
+    "Qua 10h",
+    "Qua 11h",
+    "Qua 12h",
+    "Qua 13h",
+    "Qua 14h",
+    "Qua 15h",
+    "Qua 16h",
+    "Qua 17h",
+    "Qua 18h",
+    "Qua 19h",
+    "Qua 20h",
+    "Qua 21h",
+    "Qua 22h",
+    "Qua 23h",
+    "Qui 0h",
+    "Qui 1h",
+    "Qui 2h",
+    "Qui 3h",
+    "Qui 4h",
+    "Qui 5h",
+    "Qui 6h",
+    "Qui 7h",
+    "Qui 8h",
+    "Qui 9h",
+    "Qui 10h",
+    "Qui 11h",
+    "Qui 12h",
+    "Qui 13h",
+    "Qui 14h",
+    "Qui 15h",
+    "Qui 16h",
+    "Qui 17h",
+    "Qui 18h",
+    "Qui 19h",
+    "Qui 20h",
+    "Qui 21h",
+    "Qui 22h",
+    "Qui 23h",
+    "Sex 0h",
+    "Sex 1h",
+    "Sex 2h",
+    "Sex 3h",
+    "Sex 4h",
+    "Sex 5h",
+    "Sex 6h",
+    "Sex 7h",
+    "Sex 8h",
+    "Sex 9h",
+    "Sex 10h",
+    "Sex 11h",
+    "Sex 12h",
+    "Sex 13h",
+    "Sex 14h",
+    "Sex 15h",
+    "Sex 16h",
+    "Sex 17h",
+    "Sex 18h",
+    "Sex 19h",
+    "Sex 20h",
+    "Sex 21h",
+    "Sex 22h",
+    "Sex 23h",
+    "Sáb 0h",
+    "Sáb 1h",
+    "Sáb 2h",
+    "Sáb 3h",
+    "Sáb 4h",
+    "Sáb 5h",
+    "Sáb 6h",
+    "Sáb 7h",
+    "Sáb 8h",
+    "Sáb 9h",
+    "Sáb 10h",
+    "Sáb 11h",
+    "Sáb 12h",
+    "Sáb 13h",
+    "Sáb 14h",
+    "Sáb 15h",
+    "Sáb 16h",
+    "Sáb 17h",
+    "Sáb 18h",
+    "Sáb 19h",
+    "Sáb 20h",
+    "Sáb 21h",
+    "Sáb 22h",
+    "Sáb 23h"
+  ],
+  "valores": [
+    486,
+    469,
+    437,
+    459,
+    457,
+    459,
+    1876,
+    1847,
+    1848,
+    1911,
+    1884,
+    8239,
+    8140,
+    8108,
+    8210,
+    2267,
+    2348,
+    2345,
+    2327,
+    9427,
+    9327,
+    9417,
+    9169,
+    1162,
+    260,
+    274,
+    279,
+    279,
+    255,
+    290,
+    1106,
+    1016,
+    1038,
+    1099,
+    1028,
+    4558,
+    4609,
+    4649,
+    4601,
+    1324,
+    1273,
+    1253,
+    1257,
+    5400,
+    5428,
+    5248,
+    5228,
+    676,
+    309,
+    336,
+    301,
+    345,
+    325,
+    331,
+    1331,
+    1302,
+    1322,
+    1253,
+    1280,
+    5665,
+    5639,
+    5645,
+    5593,
+    1641,
+    1642,
+    1544,
+    1618,
+    6418,
+    6429,
+    6520,
+    6452,
+    815,
+    318,
+    320,
+    304,
+    360,
+    311,
+    311,
+    1278,
+    1276,
+    1217,
+    1208,
+    1297,
+    5391,
+    5513,
+    5448,
+    5590,
+    1585,
+    1596,
+    1526,
+    1667,
+    6232,
+    6306,
+    6153,
+    6330,
+    759,
+    330,
+    308,
+    332,
+    348,
+    346,
+    323,
+    1307,
+    1301,
+    1343,
+    1269,
+    1297,
+    5703,
+    5608,
+    5786,
+    5737,
+    1753,
+    1645,
+    1660,
+    1620,
+    6680,
+    6674,
+    6575,
+    6637,
+    726,
+    424,
+    462,
+    454,
+    457,
+    448,
+    466,
+    1733,
+    1793,
+    1793,
+    1819,
+    1729,
+    7628,
+    7601,
+    7654,
+    7507,
+    2219,
+    2215,
+    2141,
+    2098,
+    8755,
+    8670,
+    8777,
+    8605,
+    1149,
+    465,
+    435,
+    487,
+    471,
+    481,
+    454,
+    1800,
+    1863,
+    1830,
+    1841,
+    1866,
+    8235,
+    8239,
+    8122,
+    8118,
+    2230,
+    2282,
+    2336,
+    2282,
+    9232,
+    9290,
+    9159,
+    9099,
+    1137
+  ]
+}

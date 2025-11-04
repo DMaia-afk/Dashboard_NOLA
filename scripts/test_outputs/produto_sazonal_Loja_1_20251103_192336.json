@@ -1,0 +1,50 @@
+{
+  "labels": [],
+  "valores": [],
+  "top_products": [],
+  "sazonalidade": [],
+  "analysis": {
+    "message": "Dados insuficientes para análise (necessário ao menos 1 mês com dados)."
+  },
+  "feriados": [
+    {
+      "holiday": "Dia das Mães",
+      "keywords": [
+        "dia das maes",
+        "dia das mães",
+        "mae",
+        "mãe",
+        "presente mae",
+        "presente mãe",
+        "kit mae"
+      ],
+      "product_count": 0,
+      "top_products": []
+    },
+    {
+      "holiday": "Dia dos Namorados",
+      "keywords": [
+        "dia dos namorados",
+        "namorados",
+        "combo casal",
+        "jantar romantico",
+        "romantico"
+      ],
+      "product_count": 0,
+      "top_products": []
+    },
+    {
+      "holiday": "Halloween",
+      "keywords": [
+        "halloween",
+        "abobora",
+        "fantasia",
+        "doces"
+      ],
+      "product_count": 0,
+      "top_products": []
+    }
+  ],
+  "holiday_top_products": [],
+  "info": null
+}

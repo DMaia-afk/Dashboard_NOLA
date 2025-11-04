@@ -1,0 +1,65 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mapa de Vendas — NOLA</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{% static 'dashboard_Maria/css/home.css' %}">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+    <style>
+        body, html { height: 100%; }
+        #map { height: calc(100vh - 90px); width: 100%; }
+        .map-controls { padding: 12px; }
+        .sidebar-container { height: 100vh; position: fixed; }
+        .main-content { margin-left: 220px; padding: 16px; }
+    </style>
+</head>
+<body>
+    <aside id="sidebar" class="sidebar-container">
+        <div class="sidebar-header">
+            <img src="{% static 'dashboard_Maria/img/logo_Nola.png' %}" class="sidebar-logo" style="width: 2.5rem; height: 2.5rem; margin-right: 0.5rem;">
+            <a href="/" style="display:flex;align-items:center;text-decoration:none;color:inherit;">
+                <span class="sidebar-text" style="font-size:1.25rem; font-weight:700;">NOLA</span>
+            </a>
+        </div>
+        <nav class="nav-link-area">
+            <a href="/" class="nav-item">
+                <span class="sidebar-icon"><i class="fas fa-tachometer-alt"></i></span>
+                <span class="sidebar-text">Dashboard</span>
+            </a>
+            <a href="/map/" class="nav-item active">
+                <span class="sidebar-icon"><i class="fas fa-map-marked-alt"></i></span>
+                <span class="sidebar-text">Mapa de Vendas</span>
+            </a>
+            <a href="/calendar/" class="nav-item">
+                <span class="sidebar-icon"><i class="fas fa-calendar-alt"></i></span>
+                <span class="sidebar-text">Calendário</span>
+            </a>
+        </nav>
+    </aside>
+    <main class="main-content">
+        <header class="dashboard-header">
+            <div>
+                <h1>Mapa de Vendas</h1>
+                <p>Visualize onde acontecem as vendas em (quase) tempo real. Para desenvolvimento local a página fornece uma simulação de eventos quando não existir um endpoint real.</p>
+            </div>
+            <div style="display:flex;gap:8px;align-items:center;">
+                <label style="font-size:0.9rem">Simular (dev): <input id="realtime-sim" type="checkbox" checked></label>
+                <button id="clear-markers" class="btn-primary">Limpar marcadores</button>
+            </div>
+        </header>
+
+        <section style="margin-top: 1rem;">
+            <div id="map"></div>
+            <div class="map-controls">
+                <small>Fonte: se configurado, a página tentará usar <code>/api/recent-sales/</code>; caso contrário, usa uma simulação local.</small>
+            </div>
+        </section>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="{% static 'dashboard_Maria/js/map.js' %}"></script>
+</body>
+</html>

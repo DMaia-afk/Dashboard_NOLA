@@ -1,0 +1,117 @@
+{
+  "taxa_cancelamento": 4.97,
+  "timeseries": {
+    "labels": [
+      "2025-05",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10"
+    ],
+    "values": [
+      5.02,
+      4.9,
+      4.91,
+      5.06,
+      4.91,
+      5.0
+    ]
+  },
+  "por_canal": [
+    {
+      "canal": "Presencial",
+      "pct": 4.97,
+      "n_canceladas": 10747,
+      "n_vendas": 216210
+    },
+    {
+      "canal": "iFood",
+      "pct": 4.99,
+      "n_canceladas": 8115,
+      "n_vendas": 162515
+    },
+    {
+      "canal": "Rappi",
+      "pct": 5.02,
+      "n_canceladas": 4098,
+      "n_vendas": 81685
+    },
+    {
+      "canal": "Uber Eats",
+      "pct": 4.96,
+      "n_canceladas": 2153,
+      "n_vendas": 43367
+    },
+    {
+      "canal": "WhatsApp",
+      "pct": 4.69,
+      "n_canceladas": 1279,
+      "n_vendas": 27264
+    },
+    {
+      "canal": "App Próprio",
+      "pct": 4.84,
+      "n_canceladas": 529,
+      "n_vendas": 10938
+    }
+  ],
+  "top_produtos_em_vendas_canceladas": [
+    {
+      "produto": "Frango Grelhado M #071",
+      "quantidade": 701,
+      "receita": 38891.47999999994
+    },
+    {
+      "produto": "Combo Kids P #058",
+      "quantidade": 697,
+      "receita": 28047.279999999955
+    },
+    {
+      "produto": "Double Burger P #070",
+      "quantidade": 686,
+      "receita": 15901.479999999987
+    },
+    {
+      "produto": "Cheeseburger P #067",
+      "quantidade": 684,
+      "receita": 43427.159999999945
+    },
+    {
+      "produto": "Frango Grelhado G #060",
+      "quantidade": 683,
+      "receita": 68265.85000000003
+    }
+  ],
+  "buckets": [
+    {
+      "label": "0-20",
+      "count": 54
+    },
+    {
+      "label": "20-50",
+      "count": 880
+    },
+    {
+      "label": "50-100",
+      "count": 2983
+    },
+    {
+      "label": "100-200",
+      "count": 5513
+    },
+    {
+      "label": "200+",
+      "count": 17491
+    }
+  ],
+  "monetary_impact": {
+    "total_lost_revenue": 9389132.41,
+    "n_cancelled": 26921,
+    "pct_of_revenue": 5.25,
+    "total_revenue": 178693263.9
+  },
+  "cancelled_amount": 9389132.41,
+  "total_revenue": 178693263.9,
+  "total_cancelled_count": 26921
+}

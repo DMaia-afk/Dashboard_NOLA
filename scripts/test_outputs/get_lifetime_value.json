@@ -1,0 +1,83 @@
+{
+  "ltv_medio": "Decimal('61090.48')",
+  "ltv_clientes": [
+    {
+      "cliente": "Catarina Carvalho",
+      "ltv": 73414.2
+    },
+    {
+      "cliente": "Miguel da Mata",
+      "ltv": 68912.54
+    },
+    {
+      "cliente": "Letícia Gomes",
+      "ltv": 66296.86
+    },
+    {
+      "cliente": "Ana Vitória Peixoto",
+      "ltv": 61384.85
+    },
+    {
+      "cliente": "Luiza Rocha",
+      "ltv": 58948.13
+    },
+    {
+      "cliente": "Guilherme Fogaça",
+      "ltv": 58154.88
+    },
+    {
+      "cliente": "Bernardo Costa",
+      "ltv": 57008.27
+    },
+    {
+      "cliente": "Paulo Martins",
+      "ltv": 56077.98
+    },
+    {
+      "cliente": "Vitor Hugo Fogaça",
+      "ltv": 55428.06
+    },
+    {
+      "cliente": "Gabriel Santos",
+      "ltv": 55278.99
+    }
+  ],
+  "ltv_por_canal": [
+    {
+      "canal": "Presencial",
+      "ltv": 7015.55,
+      "faturamento": 70155519.04,
+      "clientes_unicos": 10000
+    },
+    {
+      "canal": "iFood",
+      "ltv": 5421.41,
+      "faturamento": 54208633.29,
+      "clientes_unicos": 9999
+    },
+    {
+      "canal": "Rappi",
+      "ltv": 2739.86,
+      "faturamento": 27275313.81,
+      "clientes_unicos": 9955
+    },
+    {
+      "canal": "Uber Eats",
+      "ltv": 1517.17,
+      "faturamento": 14363066.68,
+      "clientes_unicos": 9467
+    },
+    {
+      "canal": "WhatsApp",
+      "ltv": 1075.96,
+      "faturamento": 9018657.24,
+      "clientes_unicos": 8382
+    },
+    {
+      "canal": "App Próprio",
+      "ltv": 698.25,
+      "faturamento": 3672073.84,
+      "clientes_unicos": 5259
+    }
+  ]
+}

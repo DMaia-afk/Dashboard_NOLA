@@ -1,0 +1,54 @@
+{
+  "top_customizacoes": [
+    {
+      "produto": "Combo Kids P #058",
+      "customizacoes": 10022,
+      "receita": 806288.8800000002
+    },
+    {
+      "produto": "Cheeseburger P #067",
+      "customizacoes": 9971,
+      "receita": 1279450.479999931
+    },
+    {
+      "produto": "Filé M #050",
+      "customizacoes": 9369,
+      "receita": 855301.25
+    },
+    {
+      "produto": "Combo Duplo G #051",
+      "customizacoes": 9153,
+      "receita": 1684531.4500000123
+    },
+    {
+      "produto": "Frango Grelhado M #020",
+      "customizacoes": 9010,
+      "receita": 1839655.999999959
+    },
+    {
+      "produto": "Pudim G #030",
+      "customizacoes": 8874,
+      "receita": 1190322.8100000417
+    },
+    {
+      "produto": "Veggie Burger G #012",
+      "customizacoes": 8820,
+      "receita": 1770663.179999974
+    },
+    {
+      "produto": "Torta P #055",
+      "customizacoes": 8760,
+      "receita": 773746.2999999822
+    },
+    {
+      "produto": "Torta G #009",
+      "customizacoes": 8612,
+      "receita": 520707.449999976
+    },
+    {
+      "produto": "Água G #024",
+      "customizacoes": 8463,
+      "receita": 747504.0
+    }
+  ]
+}

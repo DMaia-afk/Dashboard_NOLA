@@ -1,0 +1,5434 @@
+{
+  "alertas": [
+    {
+      "dia": "2025-10-31",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-10-31",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-10-31",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-31",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-31",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-31",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-31",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-10-31",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-10-29",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-29",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-10-29",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-10-29",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-29",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-10-28",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-10-27",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-27",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-10-27",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-27",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 107,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 113,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-10-25",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-24",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-24",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-10-24",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-10-24",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-24",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 20,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 19,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-10-20",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 111,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 121,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 108,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 107,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 106,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 111,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-19",
+      "tipo": "pico",
+      "vendas": 107,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-10-18",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-17",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-10-17",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-10-14",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-10-12",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-12",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 110,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 113,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 109,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 117,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 106,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 106,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-11",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 19,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-10-06",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-10-05",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-05",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 17,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 18,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 15,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 19,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 18,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-10-01",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 113,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-09-28",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 107,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-09-27",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-09-26",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-09-26",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-09-26",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-09-26",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-09-26",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-09-22",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-09-19",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-09-13",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-09-12",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-11",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-09-11",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-09-09",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-09-09",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-09-09",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-09-09",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-09-06",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-09-01",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-09-01",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 84,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-31",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-08-30",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-24",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-08-24",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 108,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-23",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-08-17",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-08-17",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-08-16",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-12",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-08-12",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-08-12",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 29,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-08-11",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-08-09",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-08-09",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-08-09",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-08-09",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-08-09",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-08-09",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-09",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-08-09",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-08-08",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-08-08",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 114,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 121,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 112,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 115,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 108,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 110,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 108,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 112,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 106,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 115,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 109,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 119,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 116,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 107,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-05",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 20,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 16,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-08-04",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-08-03",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 108,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-08-02",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-07-30",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-07-26",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-07-26",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-07-26",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-07-26",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-07-25",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-07-22",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-07-22",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-07-21",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-07-21",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-07-21",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-07-21",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-07-21",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-07-20",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-07-20",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-07-19",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-07-19",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-07-19",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-07-19",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-07-17",
+      "tipo": "queda",
+      "vendas": 18,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-07-17",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-07-16",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-07-14",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-07-14",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-07-12",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-07-09",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-07-06",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-07-06",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-07-06",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-07-04",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-07-04",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-07-04",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-07-01",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-07-01",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-07-01",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 29,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 20,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 19,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 20,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 18,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-06-30",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-29",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-29",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-27",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-27",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-06-23",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 117,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-22",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-06-14",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-06-14",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-06-14",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-14",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-06-14",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-06-13",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 18,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-06-11",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 20,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-06-10",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 20,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 19,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-09",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 19,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 16,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 20,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 19,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 17,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 16,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 19,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 17,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 19,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 20,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 25,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 22,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 23,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-07",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-06-05",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-02",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-06-02",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 110,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 106,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-06-01",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 106,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 107,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-05-31",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-05-30",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-26",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-05-25",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-25",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 96,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-24",
+      "tipo": "pico",
+      "vendas": 113,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-05-22",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-05-22",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-05-22",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-05-22",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-22",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 103,
+      "loja": "Caldeira - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 101,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 108,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "da Mota - Costa"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 105,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "da Rocha e Filhos - da Mata"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "das Neves S/A - das Neves"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 107,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Freitas - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Lima S.A. - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Monteiro - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 111,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 117,
+      "loja": "Oliveira Alves S.A. - Costa"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 97,
+      "loja": "Pinto - ME - da Mata"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "Pinto - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Ramos das Neves - EI - Oliveira"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 106,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 116,
+      "loja": "Ribeiro Ltda. - Farias"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 113,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 127,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Sales da Luz e Filhos - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-05-18",
+      "tipo": "pico",
+      "vendas": 98,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "da Luz S.A. - Costa"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 95,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Melo - ME - Farias"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Ramos - Oliveira"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 85,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-05-17",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Cardoso - Pinto"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Castro - Costa"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "Costela S/A - Pinto"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 91,
+      "loja": "da Cruz - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 102,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Melo S.A. - Teixeira"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 104,
+      "loja": "Moreira - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "Pinto - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Rezende - Porto dos Dourados"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-05-16",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-05-13",
+      "tipo": "queda",
+      "vendas": 24,
+      "loja": "Monteiro - ME - Pinto"
+    },
+    {
+      "dia": "2025-05-11",
+      "tipo": "pico",
+      "vendas": 94,
+      "loja": "Lima Carvalho S/A - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-11",
+      "tipo": "pico",
+      "vendas": 88,
+      "loja": "Melo - da Mata"
+    },
+    {
+      "dia": "2025-05-10",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Costa - Pinto"
+    },
+    {
+      "dia": "2025-05-10",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "da Luz - Pinto"
+    },
+    {
+      "dia": "2025-05-10",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Pires - Nunes do Galho"
+    },
+    {
+      "dia": "2025-05-10",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Rocha das Neves - EI - Farias"
+    },
+    {
+      "dia": "2025-05-06",
+      "tipo": "queda",
+      "vendas": 26,
+      "loja": "Aragão - Pinto"
+    },
+    {
+      "dia": "2025-05-06",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Nascimento - Almeida Alegre"
+    },
+    {
+      "dia": "2025-05-06",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Rezende - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-05",
+      "tipo": "queda",
+      "vendas": 21,
+      "loja": "da Mata - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-05-05",
+      "tipo": "queda",
+      "vendas": 29,
+      "loja": "da Mota - da Mata"
+    },
+    {
+      "dia": "2025-05-05",
+      "tipo": "queda",
+      "vendas": 27,
+      "loja": "Melo - Cardoso do Galho"
+    },
+    {
+      "dia": "2025-05-05",
+      "tipo": "queda",
+      "vendas": 28,
+      "loja": "Viana - Pinto"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "Barros e Filhos - Cavalcanti do Campo"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 100,
+      "loja": "Campos - Nogueira da Serra"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 89,
+      "loja": "Castro Correia S/A - Oliveira"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "Correia - ME - Nunes"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 86,
+      "loja": "da Mota S/A - Azevedo"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 90,
+      "loja": "da Rocha Melo Ltda. - Costa"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 92,
+      "loja": "da Rosa Gomes S/A - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Duarte Fogaça - EI - da Rosa de Castro"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Peixoto Novaes S.A. - Farias"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Rodrigues - EI - Costa"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 99,
+      "loja": "Teixeira - ME - Teixeira"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 87,
+      "loja": "Viana da Mata - ME - Moura do Amparo"
+    },
+    {
+      "dia": "2025-05-04",
+      "tipo": "pico",
+      "vendas": 93,
+      "loja": "Viana - Pinto"
+    }
+  ]
+}

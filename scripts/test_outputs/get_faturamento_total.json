@@ -1,0 +1,29 @@
+{
+  "valor_total": 178693263.9,
+  "faturamento_mensal": [
+    {
+      "mes": "2025-05",
+      "faturamento": 28997578.66
+    },
+    {
+      "mes": "2025-06",
+      "faturamento": 27720893.56
+    },
+    {
+      "mes": "2025-07",
+      "faturamento": 29893147.14
+    },
+    {
+      "mes": "2025-08",
+      "faturamento": 31986370.29
+    },
+    {
+      "mes": "2025-09",
+      "faturamento": 29018578.45
+    },
+    {
+      "mes": "2025-10",
+      "faturamento": 31076695.8
+    }
+  ]
+}

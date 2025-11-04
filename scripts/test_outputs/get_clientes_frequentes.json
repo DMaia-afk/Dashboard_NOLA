@@ -1,0 +1,54 @@
+{
+  "top_clientes": [
+    {
+      "cliente": "Catarina Carvalho",
+      "compras": 206,
+      "ticket_medio": 356.37961165048546
+    },
+    {
+      "cliente": "Letícia Gomes",
+      "compras": 194,
+      "ticket_medio": 341.73639175257733
+    },
+    {
+      "cliente": "Miguel da Mata",
+      "compras": 189,
+      "ticket_medio": 364.61661375661373
+    },
+    {
+      "cliente": "Paulo Martins",
+      "compras": 177,
+      "ticket_medio": 316.82474576271187
+    },
+    {
+      "cliente": "Guilherme Fogaça",
+      "compras": 175,
+      "ticket_medio": 332.3136
+    },
+    {
+      "cliente": "Ana Vitória Peixoto",
+      "compras": 165,
+      "ticket_medio": 372.0293939393939
+    },
+    {
+      "cliente": "Bernardo Costa",
+      "compras": 158,
+      "ticket_medio": 360.811835443038
+    },
+    {
+      "cliente": "Isadora Sales",
+      "compras": 157,
+      "ticket_medio": 344.7240127388535
+    },
+    {
+      "cliente": "Eduarda da Mata",
+      "compras": 156,
+      "ticket_medio": 322.7037820512821
+    },
+    {
+      "cliente": "Vitor Hugo Fogaça",
+      "compras": 156,
+      "ticket_medio": 355.3080769230769
+    }
+  ]
+}

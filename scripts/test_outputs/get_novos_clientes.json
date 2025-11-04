@@ -1,0 +1,54 @@
+{
+  "novos_clientes": [
+    {
+      "cliente": "Ana Júlia Farias",
+      "primeira_compra": "2025-06-21 11:13:25.442430",
+      "ticket_medio": 405.259
+    },
+    {
+      "cliente": "João Lucas da Mota",
+      "primeira_compra": "2025-06-15 13:41:44.442430",
+      "ticket_medio": 345.09384615384613
+    },
+    {
+      "cliente": "Sr. Rafael Cardoso",
+      "primeira_compra": "2025-06-13 14:28:14.442430",
+      "ticket_medio": 478.35391304347826
+    },
+    {
+      "cliente": "Dra. Elisa Gomes",
+      "primeira_compra": "2025-06-12 01:05:23.442430",
+      "ticket_medio": 404.72379310344826
+    },
+    {
+      "cliente": "Olivia Aragão",
+      "primeira_compra": "2025-06-08 12:43:40.442430",
+      "ticket_medio": 356.57194444444445
+    },
+    {
+      "cliente": "Dr. Enzo da Mota",
+      "primeira_compra": "2025-06-07 14:42:46.442430",
+      "ticket_medio": 386.3444
+    },
+    {
+      "cliente": "Augusto Lopes",
+      "primeira_compra": "2025-06-04 09:15:01.442430",
+      "ticket_medio": 279.2583333333333
+    },
+    {
+      "cliente": "Juan Viana",
+      "primeira_compra": "2025-06-03 18:37:45.442430",
+      "ticket_medio": 394.8218181818182
+    },
+    {
+      "cliente": "Sr. Augusto Oliveira",
+      "primeira_compra": "2025-06-02 22:18:41.442430",
+      "ticket_medio": 318.8067741935484
+    },
+    {
+      "cliente": "Calebe Alves",
+      "primeira_compra": "2025-06-02 13:31:55.442430",
+      "ticket_medio": 382.35333333333335
+    }
+  ]
+}

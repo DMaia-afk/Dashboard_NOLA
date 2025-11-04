@@ -1,0 +1,40 @@
+{
+  "comparativo_canal": [
+    {
+      "canal": "Presencial",
+      "faturamento": 70155519.04,
+      "ticket_medio": 341.45086482724383,
+      "vendas": 205463
+    },
+    {
+      "canal": "iFood",
+      "faturamento": 54208633.29,
+      "ticket_medio": 351.09218452072537,
+      "vendas": 154400
+    },
+    {
+      "canal": "Rappi",
+      "faturamento": 27275313.81,
+      "ticket_medio": 351.5448955366234,
+      "vendas": 77587
+    },
+    {
+      "canal": "Uber Eats",
+      "faturamento": 14363066.68,
+      "ticket_medio": 348.4997010724511,
+      "vendas": 41214
+    },
+    {
+      "canal": "WhatsApp",
+      "faturamento": 9018657.24,
+      "ticket_medio": 347.07166596113143,
+      "vendas": 25985
+    },
+    {
+      "canal": "App Próprio",
+      "faturamento": 3672073.84,
+      "ticket_medio": 352.778733788068,
+      "vendas": 10409
+    }
+  ]
+}

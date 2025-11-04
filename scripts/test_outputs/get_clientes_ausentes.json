@@ -1,0 +1,44 @@
+{
+  "clientes_ausentes": [
+    {
+      "cliente": "Bárbara Viana",
+      "ultima_compra": "2025-09-22 12:20:42.442430"
+    },
+    {
+      "cliente": "Juan Viana",
+      "ultima_compra": "2025-09-25 21:10:44.442430"
+    },
+    {
+      "cliente": "Catarina Lima",
+      "ultima_compra": "2025-09-26 19:28:30.442430"
+    },
+    {
+      "cliente": "Ryan da Cunha",
+      "ultima_compra": "2025-09-27 17:12:26.442430"
+    },
+    {
+      "cliente": "Ian Nascimento",
+      "ultima_compra": "2025-09-27 21:06:53.442430"
+    },
+    {
+      "cliente": "Davi Luiz Ramos",
+      "ultima_compra": "2025-09-28 20:17:57.442430"
+    },
+    {
+      "cliente": "Sabrina Gonçalves",
+      "ultima_compra": "2025-09-30 11:54:59.442430"
+    },
+    {
+      "cliente": "Dra. Elisa Gomes",
+      "ultima_compra": "2025-09-30 21:09:33.442430"
+    },
+    {
+      "cliente": "João Guilherme Castro",
+      "ultima_compra": "2025-09-30 22:09:00.442430"
+    },
+    {
+      "cliente": "Anthony Melo",
+      "ultima_compra": "2025-10-01 18:12:38.442430"
+    }
+  ]
+}

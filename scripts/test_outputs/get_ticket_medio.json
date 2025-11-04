@@ -1,0 +1,73 @@
+{
+  "ticket_medio": 346.94,
+  "ticket_median": 284.02,
+  "total_vendas": 515058,
+  "por_canal": [
+    {
+      "canal": "App Próprio",
+      "ticket_medio": 352.78,
+      "median_ticket": 292.26,
+      "min_ticket": 21.7,
+      "max_ticket": 1600.73,
+      "vendas": 10409,
+      "share_percent": 2.02,
+      "pct_diff_vs_overall": 1.68,
+      "low_volume": true
+    },
+    {
+      "canal": "Rappi",
+      "ticket_medio": 351.54,
+      "median_ticket": 289.04,
+      "min_ticket": 17.22,
+      "max_ticket": 1733.28,
+      "vendas": 77587,
+      "share_percent": 15.06,
+      "pct_diff_vs_overall": 1.33,
+      "low_volume": false
+    },
+    {
+      "canal": "iFood",
+      "ticket_medio": 351.09,
+      "median_ticket": 288.77,
+      "min_ticket": 16.02,
+      "max_ticket": 1735.42,
+      "vendas": 154400,
+      "share_percent": 29.98,
+      "pct_diff_vs_overall": 1.2,
+      "low_volume": false
+    },
+    {
+      "canal": "Uber Eats",
+      "ticket_medio": 348.5,
+      "median_ticket": 285.58,
+      "min_ticket": 16.92,
+      "max_ticket": 1560.77,
+      "vendas": 41214,
+      "share_percent": 8.0,
+      "pct_diff_vs_overall": 0.45,
+      "low_volume": false
+    },
+    {
+      "canal": "WhatsApp",
+      "ticket_medio": 347.07,
+      "median_ticket": 281.65,
+      "min_ticket": 17.29,
+      "max_ticket": 1588.78,
+      "vendas": 25985,
+      "share_percent": 5.05,
+      "pct_diff_vs_overall": 0.04,
+      "low_volume": false
+    },
+    {
+      "canal": "Presencial",
+      "ticket_medio": 341.45,
+      "median_ticket": 278.2,
+      "min_ticket": 10.95,
+      "max_ticket": 1775.16,
+      "vendas": 205463,
+      "share_percent": 39.89,
+      "pct_diff_vs_overall": -1.58,
+      "low_volume": false
+    }
+  ]
+}

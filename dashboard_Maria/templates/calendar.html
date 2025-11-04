@@ -1,0 +1,73 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Calendário — NOLA</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{% static 'dashboard_Maria/css/home.css' %}">
+    <style>
+        .calendar-wrapper { display:flex; gap:20px; }
+        .calendar { width: 720px; }
+        .month-nav { display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; }
+        .day-cell { border:1px solid #eee; padding:8px; height:120px; overflow:auto; }
+        .holiday { background:#fff3e0; }
+        .note { background:#e8f5e9; padding:4px; margin-top:6px; border-radius:4px; }
+    </style>
+</head>
+<body>
+    <aside id="sidebar" class="sidebar-container">
+        <div class="sidebar-header">
+            <img src="{% static 'dashboard_Maria/img/logo_Nola.png' %}" class="sidebar-logo" style="width: 2.5rem; height: 2.5rem; margin-right: 0.5rem;">
+            <a href="/" style="display:flex;align-items:center;text-decoration:none;color:inherit;">
+                <span class="sidebar-text" style="font-size:1.25rem; font-weight:700;">NOLA</span>
+            </a>
+        </div>
+        <nav class="nav-link-area">
+            <a href="/" class="nav-item">
+                <span class="sidebar-icon"><i class="fas fa-tachometer-alt"></i></span>
+                <span class="sidebar-text">Dashboard</span>
+            </a>
+            <a href="/map/" class="nav-item">
+                <span class="sidebar-icon"><i class="fas fa-map-marked-alt"></i></span>
+                <span class="sidebar-text">Mapa de Vendas</span>
+            </a>
+            <a href="/calendar/" class="nav-item active">
+                <span class="sidebar-icon"><i class="fas fa-calendar-alt"></i></span>
+                <span class="sidebar-text">Calendário</span>
+            </a>
+        </nav>
+    </aside>
+    <main class="main-content">
+        <header class="dashboard-header">
+            <div>
+                <h1>Calendário Anual</h1>
+                <p>Veja feriados e adicione anotações por dia. As notas ficam no seu navegador (localStorage).</p>
+            </div>
+            <div>
+                <button id="year-prev" class="btn-primary">Ano anterior</button>
+                <button id="year-next" class="btn-primary">Próximo ano</button>
+            </div>
+        </header>
+
+        <section style="margin-top: 1rem;">
+            <div class="calendar-wrapper">
+                <div class="calendar" id="calendar"></div>
+                <div style="flex:1;min-width:260px;">
+                    <h3>Dia selecionado</h3>
+                    <div id="selected-day-info">Nenhum dia selecionado</div>
+                    <h4 style="margin-top:12px;">Anotações</h4>
+                    <textarea id="note-text" rows="6" style="width:100%;"></textarea>
+                    <div style="margin-top:8px;display:flex;gap:8px;">
+                        <button id="save-note" class="btn-primary">Salvar nota</button>
+                        <button id="clear-note" class="btn-secondary">Remover nota</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="{% static 'dashboard_Maria/js/calendar.js' %}"></script>
+</body>
+</html>
