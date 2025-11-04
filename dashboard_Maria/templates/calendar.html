@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Calendário — NOLA</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" href="{% static 'dashboard_Maria/css/home.css' %}">
+    <link rel="stylesheet" href="{% static 'css/home.css' %}">
     <style>
         .calendar-wrapper { display:flex; gap:20px; }
         .calendar { width: 720px; }
@@ -19,7 +19,7 @@
 <body>
     <aside id="sidebar" class="sidebar-container">
         <div class="sidebar-header">
-            <img src="{% static 'dashboard_Maria/img/logo_Nola.png' %}" class="sidebar-logo" style="width: 2.5rem; height: 2.5rem; margin-right: 0.5rem;">
+            <img src="{% static 'img/logo_Nola.png' %}" class="sidebar-logo" style="width: 2.5rem; height: 2.5rem; margin-right: 0.5rem;">
             <a href="/" style="display:flex;align-items:center;text-decoration:none;color:inherit;">
                 <span class="sidebar-text" style="font-size:1.25rem; font-weight:700;">NOLA</span>
             </a>
@@ -68,6 +68,6 @@
         </section>
     </main>
 
-    <script src="{% static 'dashboard_Maria/js/calendar.js' %}"></script>
+    <script src="{% static 'js/calendar.js' %}"></script>
 </body>
 </html>
