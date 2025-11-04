@@ -18,7 +18,7 @@ class AuthGroup(models.Model):
     name = models.CharField(unique=True, max_length=150)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'auth_group'
 
 
