@@ -3,7 +3,7 @@ services:
     name: dashboard-nola
     runtime: python3
     buildCommand: DJANGO_SETTINGS_MODULE=dashboard_nola.settings pip install -r requirements.txt && python manage.py collectstatic --noinput
-    startCommand: gunicorn dashboard_nola.wsgi:application --bind 0.0.0.0:$PORT
+    startCommand: python manage.py collectstatic --noinput && gunicorn dashboard_nola.wsgi:application --bind 0.0.0.0:$PORT
     envVars:
       - key: DATABASE_URL
         sync: false  # será configurado manualmente no Render
